@@ -68,7 +68,7 @@
 	};
 </script>
 
-<div class="w-screen h-screen flex flex-col items-center justify-center overflow-clip">
+<div class="w-screen h-screen flex flex-col items-center justify-center overflow-hidden">
 	<div class="w-screen flex justify-center text-2xl font-bold grow-0 mb-4 sm:hidden">
 		Tap the cat!
 	</div>
