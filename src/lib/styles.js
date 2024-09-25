@@ -56,20 +56,22 @@ export const rotate = [
 ];
 
 export const scaleX = [
-	'scale-x-[0.4]',
-	'scale-x-[0.5]',
-	'scale-x-[0.6]',
-	'scale-x-[0.7]',
-	'scale-x-[0.8]',
-	'scale-x-[0.9]'
+	'scale-x-75',
+	'scale-x-100',
+	'scale-x-125',
+	'scale-x-150',
+	'scale-x-[2.0]',
+	'scale-x-[2.5]',
+	'scale-x-[3.0]'
 ];
 export const scaleY = [
-	'scale-y-[0.4]',
-	'scale-y-[0.5]',
-	'scale-y-[0.6]',
-	'scale-y-[0.7]',
-	'scale-y-[0.8]',
-	'scale-y-[0.9]'
+	'scale-y-75',
+	'scale-y-100',
+	'scale-y-125',
+	'scale-y-150',
+	'scale-y-[2.0]',
+	'scale-y-[2.5]',
+	'scale-y-[3.0]'
 ];
 
 export const skewX = [
