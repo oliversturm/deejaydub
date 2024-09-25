@@ -40,8 +40,8 @@ export const standardColors = [
 	'darkgoldenrod'
 ];
 
-export const left = ['left-1', 'left-1/4', 'left-1/3', 'left-1/2'];
-export const top = ['top-1', 'top-1/4', 'top-1/3', 'top-1/2'];
+export const left = ['left-1', 'left-1/4', 'left-1/3', 'left-1/2', 'left-3/4'];
+export const top = ['top-1', 'top-1/4', 'top-1/3', 'top-1/2', 'top-3/4'];
 
 export const rotate = [
 	'rotate-0',
